@@ -1,6 +1,6 @@
 # HikingKit
 HikingKit is a high fidelity prototype of an all-in-one hiking application that helps user research, organize and document hiking trips. 
-It is gears towards all-experience-level hikers and aims to help create a hiking community. 
+It is geared towards all-experience-level hikers and aims to help create a hiking community. 
 
 System Concept Statement 
 
